@@ -899,5 +899,8 @@ footer {
         font-size: 17px;
     }
 
+    .header-bottom {
+        margin-top: 50px;
+    }
 
 }
